@@ -1,0 +1,3 @@
+ftp.digiland.it	acaliaro	ireland
+ftp.secureftp-test.com	test	test
+ftp.rebex.net	anonymous	any

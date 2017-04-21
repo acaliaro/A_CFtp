@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_CFtpDemo", "..\FtpDemo\A_CFtpDemo.csproj", "{E7F09067-0EE5-40DB-9518-D44E68098B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{55E92DD0-305A-474D-845C-C307D3D560E0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4A3F8255-ECD7-462B-9AAD-D10841E6440E} = {4A3F8255-ECD7-462B-9AAD-D10841E6440E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXp", "..\TestXp\TestXp.csproj", "{9D68DE27-021F-4870-9E67-3F536C65AB28}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4A3F8255-ECD7-462B-9AAD-D10841E6440E} = {4A3F8255-ECD7-462B-9AAD-D10841E6440E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_CFtp", "A_CFtp.csproj", "{4A3F8255-ECD7-462B-9AAD-D10841E6440E}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "TestCab", "..\TestCab\TestCab.vddproj", "{639D5FAF-5134-4093-AC6F-BF4D612B970C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_CSMTPMail", "..\A_CSMTPMail\A_CSMTPMail.csproj", "{F9DB38F2-29B7-4F39-B3CE-04EE9A0B4ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F09067-0EE5-40DB-9518-D44E68098B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F09067-0EE5-40DB-9518-D44E68098B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F09067-0EE5-40DB-9518-D44E68098B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F09067-0EE5-40DB-9518-D44E68098B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E92DD0-305A-474D-845C-C307D3D560E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E92DD0-305A-474D-845C-C307D3D560E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E92DD0-305A-474D-845C-C307D3D560E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{55E92DD0-305A-474D-845C-C307D3D560E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E92DD0-305A-474D-845C-C307D3D560E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E92DD0-305A-474D-845C-C307D3D560E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9D68DE27-021F-4870-9E67-3F536C65AB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D68DE27-021F-4870-9E67-3F536C65AB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D68DE27-021F-4870-9E67-3F536C65AB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D68DE27-021F-4870-9E67-3F536C65AB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3F8255-ECD7-462B-9AAD-D10841E6440E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3F8255-ECD7-462B-9AAD-D10841E6440E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3F8255-ECD7-462B-9AAD-D10841E6440E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3F8255-ECD7-462B-9AAD-D10841E6440E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639D5FAF-5134-4093-AC6F-BF4D612B970C}.Debug|Any CPU.ActiveCfg = Debug
+		{639D5FAF-5134-4093-AC6F-BF4D612B970C}.Release|Any CPU.ActiveCfg = Release
+		{F9DB38F2-29B7-4F39-B3CE-04EE9A0B4ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DB38F2-29B7-4F39-B3CE-04EE9A0B4ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DB38F2-29B7-4F39-B3CE-04EE9A0B4ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DB38F2-29B7-4F39-B3CE-04EE9A0B4ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

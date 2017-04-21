@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="A_CFtp">
+</Property><Property Name="File di soluzione" Value="D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\A_CFtp.sln">
+</Property><Property Name="File di opzioni utente" Value="D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\A_CFtp.suo">
+</Property><Property Name="Date" Value="sabato 23 giugno 2012">
+</Property><Property Name="Time" Value="01:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="A_CFtp.sln" Description="File salvato come D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\A_CFtp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="A_CFtp.suo" Description="File salvato come D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\A_CFtp.suo">
+</Event><Event ErrorLevel="0" Project="A_CFtpDemo" Source="..\FtpDemo\A_CFtpDemo.csproj" Description="Backup del file di progetto creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\A_CFtpDemo.csproj">
+</Event><Event ErrorLevel="0" Project="A_CFtpDemo" Source="..\FtpDemo\A_CFtpDemo.csproj.user" Description="Backup del file utente di progetto creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\A_CFtpDemo.csproj.user">
+</Event><Event ErrorLevel="1" Project="A_CFtpDemo" Source="ftplib.cs" Description="Il progetto di cui si è effettuato il backup potrebbe non essere compilato. Il progetto contiene il seguente file collegato: D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\ftplib.cs">
+</Event><Event ErrorLevel="0" Project="A_CFtpDemo" Source="ftplib.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\ftplib.cs">
+</Event><Event ErrorLevel="0" Project="A_CFtpDemo" Source="..\FtpDemo\Properties\AssemblyInfo.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="A_CFtpDemo" Source="..\FtpDemo\FtpConfig.txt" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\FtpConfig.txt">
+</Event><Event ErrorLevel="0" Project="A_CFtpDemo" Source="..\FtpDemo\A_CFtpDemo.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="A_CFtpDemo" Source="..\FtpDemo\A_CFtpDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Test" Source="..\Test\Test.csproj" Description="Avviso: si sta eseguendo il backup del file di progetto in un percorso relativo diverso da quello della soluzione originale. La differenza nella gerarchia delle cartelle potrebbe creare problemi durante l'apertura o la compilazione della soluzione e del proge">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.csproj" Description="Backup del file di progetto creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\Test.csproj">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.csproj.user" Description="Backup del file utente di progetto creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\Test.csproj.user">
+</Event><Event ErrorLevel="1" Project="Test" Source="ftplib.cs" Description="Il progetto di cui si è effettuato il backup potrebbe non essere compilato. Il progetto contiene il seguente file collegato: D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\ftplib.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="ftplib.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\ftplib.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\FormTestFtp.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\FormTestFtp.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\FormTestFtp.Designer.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\FormTestFtp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Program.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\Program.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Properties\AssemblyInfo.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Properties\Resources.Designer.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\FormTestFtp.resx" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\FormTestFtp.resx">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Properties\Resources.resx" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Test\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="Test" Source="..\Test\Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="TestXp" Source="..\TestXp\TestXp.csproj" Description="Avviso: si sta eseguendo il backup del file di progetto in un percorso relativo diverso da quello della soluzione originale. La differenza nella gerarchia delle cartelle potrebbe creare problemi durante l'apertura o la compilazione della soluzione e del proge">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\TestXp.csproj" Description="Backup del file di progetto creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\TestXp.csproj">
+</Event><Event ErrorLevel="1" Project="TestXp" Source="ftplib.cs" Description="Il progetto di cui si è effettuato il backup potrebbe non essere compilato. Il progetto contiene il seguente file collegato: D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\ftplib.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="ftplib.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\ftplib.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\FormTestFtp.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\FormTestFtp.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\FormTestFtp.Designer.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\FormTestFtp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\Program.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\Program.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\Properties\AssemblyInfo.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\Properties\Resources.Designer.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\Properties\Settings.Designer.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\Properties\Settings.settings" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\ip address.txt" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\ip address.txt">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\FormTestFtp.resx" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\FormTestFtp.resx">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\Properties\Resources.resx" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\TestXp\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\TestXp.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="TestXp" Source="..\TestXp\TestXp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="A_CFtp.csproj" Description="Backup del file di progetto creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\A_CFtp.csproj">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="A_CFtp.csproj.user" Description="Backup del file utente di progetto creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\A_CFtp.csproj.user">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="ftplib.cs" Description="Conflitto nel nome del file di backup. Il file verrà rinominato in D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\ftplib(2).cs">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="ftplib.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\ftplib(2).cs">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="Properties\AssemblyInfo.cs" Description="Conflitto nel nome del file di backup. Il file verrà rinominato in D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="Properties\AssemblyInfo.cs" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="FtpConfig.txt" Description="Conflitto nel nome del file di backup. Il file verrà rinominato in D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\FtpConfig(2).txt">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="FtpConfig.txt" Description="Backup del file creato con nome D:\Documenti\software\CSharpApp\Utils\5.0\A_CFtp\Ftp\Backup\FtpConfig(2).txt">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="A_CFtp.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="A_CFtp" Source="A_CFtp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="A_CFtp.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="A_CFtp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="A_CFtpDemo" Source="..\FtpDemo\A_CFtpDemo.csproj" Description="Ricerca completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\FormTestFtp.resx" Description="Conversione file completata">
+</Event><Event ErrorLevel="3" Project="Test" Source="..\Test\FormTestFtp.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Properties\Resources.resx" Description="Conversione file completata">
+</Event><Event ErrorLevel="3" Project="Test" Source="..\Test\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.csproj" Description="Ricerca completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event><Event ErrorLevel="0" Project="TestXp" Source="..\TestXp\TestXp.csproj" Description="Ricerca completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event><Event ErrorLevel="0" Project="A_CFtp" Source="A_CFtp.csproj" Description="Ricerca completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>
